@@ -1,14 +1,29 @@
-<h1>Hello Words</h1>
-<p> Ayo belajar coding</p>
+<h1>Hello World</h1>
+h1 {
+  color: red;
+  font-size: 30px;
+  background-color: #f3f372;
+  height:80px;
+  width:200px;
+}
 <marquee>Selamat Datang di Website Progate</marquee>
 <h2>Mari Belajar Tentang HTML</h2>
 <p>HTML=Hyper Text Markup Language</p>
-<a href="https://prograte.com"> Website Prodi Math</a> <img src"https://scontent.fsub21-1.fna.fbcdn.net/v/t39.30808-6/276322900_1023111928318965_4639276169753153654_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5614bc&_nc_eui2=AeG_jn9Os0iHSrdK6AILQqMHkr6mNQC4ED6SvqY1ALgQPptwKFsUkDjmIhvSwgNM1IjkNhlDSzIGV9AEAWEbxbUP&_nc_ohc=xoMBXwhJqaYAX9i5DAL&_nc_ht=scontent.fsub21-1.fna&oh=00_AfCw6SO4vXSEQDhXvC9rUOpEGoSUdS3Ei0ijqy6etXcD-A&oe=64F5DBB7">
-<a href="https://prograte.com"> Website Prodi Math</a>
-<img src="https://scontent.fsub21-1.fna.fbcdn.net/v/t39.30808-6/276322900_1023111928318965_4639276169753153654_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5614bc&_nc_eui2=AeG_jn9Os0iHSrdK6AILQqMHkr6mNQC4ED6SvqY1ALgQPptwKFsUkDjmIhvSwgNM1IjkNhlDSzIGV9AEAWEbxbUP&_nc_ohc=xoMBXwhJqaYAX9i5DAL&_nc_ht=scontent.fsub21-1.fna&oh=00_AfCw6SO4vXSEQDhXvC9rUOpEGoSUdS3Ei0ijqy6etXcD-A&oe=64F5DBB7">
-
-h1 {
-  color: red;
+p {
+  color : #0000ff#;
+  font-size: 30px;
+  background-color: #f3f372;
+  height:80px;
+  width:200px;
 }
-p {color: #0000ff;
-  }
+<a href="http://matematika.uin-malang.ac.id/">Website Prodi Matematika</a>
+<img src="https://img2.pngdownload.id/20191011/pjp/transparent-natural-landscape-rural-area-landscape-farm-animat-5da6505091c0f5.070650691571180624597.jpg">
+img {
+  height:50px;
+  width:70px;
+}
+<ul>
+  <li>HTML</li>
+  <li>PHP</li>
+  <li>Ruby</li>
+</ul>
