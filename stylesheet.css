@@ -41,3 +41,12 @@ footer{
 .footer-list li{
   padding-bottom: 20px;
 }
+.main {
+  padding: 100px 80px;
+}
+.copy-container h2 {
+  font-size: 60 px;
+}
+.copy-container span {
+  color: #ff4a4a;
+}
