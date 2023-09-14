@@ -1,45 +1,47 @@
 h1 {
-  color: red;
-  font-size: 30px;
-  background-color: #f3f372;
+  color:red;
+  font-size:30px;
+  background-color:#f3f372;
   height:80px;
   width:200px;
+  font-family:serif;
 }
 p {
-  color : #0000ff#;
-  font-size: 30px;
-  background-color: #f3f372;
-  height:80px;
-  width:200px;
+  color:green;
+  font-size:20px;
+  height:50px;
+  width:100px;
 }
 img {
-  height:50px;
-  width:70px;
+  height:150px;
+  width:200px;
 }
-ii {
- list-style: none;
+li {
  float: left;
- padding: gatau brp tadi px dan.. px
+ padding:20px
 }
 header-logo {
  float: left;
- front-size: 36px;
+ front-size: 10px;
 }
-footer{
-  background-color: #2f5167;
-  color: #fff;
-  height: 120px;
-  padding: 40px;
+.selected {
+  color:red;
+}
+.footer {
+  color:#fff;
+  background-color:#2f5167;
+  height:120px;
+  padding:48px;
 }
 .footer-logo {
-  font-size: 32px;
-  float: left;
+  front-size:32px;
+  float:left;
 }
 .footer-list {
-  float: right;
+  float:right;
 }
-.footer-list li{
-  padding-bottom: 20px;
+.footer-list li {
+  pdding-bottom:20px
 }
 .main {
   padding: 100px 80px;
