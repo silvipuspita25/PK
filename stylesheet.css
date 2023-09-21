@@ -101,3 +101,15 @@ header-logo {
 }
 .fa {
   margin-right: 5px;
+.btn-wrapper {
+  margin: 20px 0;
+.btn-wrapper p{
+  margin: 10px 0;
+.signup {
+  background-color: #239b76;
+}
+.facebook {
+  background-color: #3b5998;
+}
+.twitter {
+ background-color: #55acee;
